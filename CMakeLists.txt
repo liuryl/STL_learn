@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled leecode1.cpp STL_map_learn.cpp)
+add_executable(untitled leecode1.cpp STL_map_insert_learn.cpp)
